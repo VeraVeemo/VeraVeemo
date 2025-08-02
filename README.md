@@ -32,6 +32,6 @@ I used to play a lot of games, but ever since I have been trying my hardest to c
 I don't know what else to put here.
 
 uhh, here's jetbrains helping me and this image for the dash where "3-6" is so you don't call it AI
-![img.png](img.png)
+<img width="457" height="67" alt="image" src="https://github.com/user-attachments/assets/ec740c9d-7272-4bd9-8d9a-3bd7768f18a6" />
 
 (Thank you jetbrains for the autocorrect)
