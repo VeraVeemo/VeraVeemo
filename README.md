@@ -8,6 +8,7 @@ I'm greatly into coding and gaming, and I do a lot of them both! I aim to make p
 
 I mainly know:
 - Python (Main Language)
+- Lua & Luau
 - C#
 - HTML
 - JS (A little bit)
@@ -15,6 +16,8 @@ I mainly know:
 And I use all these with [JetBrains](https://jetbrains.com) products, since all of Microsoft's products suck.
 
 My main organization is "Veemoworks" where I do all my made-for-community projects, I am currently working solo and hoping to grow much bigger in the future!
+
+I also currently work in 3 Roblox Studios (Wonders of Robloxia, Break the Frame, Ban Evasion/M4SSACRE STUDIOS), and I am pretty good at Roblox scripting, so if you need me to script for you/join your team, hit me up!
 
 ### Gaming
 I enjoy Shooting, Fighting, and Sandbox games.
