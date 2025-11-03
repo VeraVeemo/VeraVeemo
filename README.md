@@ -8,6 +8,7 @@ I'm greatly into coding and gaming, and I do a lot of them both! I aim to make p
 
 I mainly know:
 - Python (Main Language)
+- Java
 - Lua & Luau
 - C#
 - HTML
