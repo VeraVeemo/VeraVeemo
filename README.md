@@ -18,7 +18,7 @@ And I use all these with [JetBrains](https://jetbrains.com) products, since all 
 
 My main organization is "Veemoworks" where I do all my made-for-community projects, I am currently working solo and hoping to grow much bigger in the future!
 
-I also currently work in 4 Roblox Studios ( Wonders of Robloxia, Break the Frame, Ban Evasion/M4SSACRE STUDIOS, Echoes of Admins ), and I am pretty good at Roblox scripting, so if you need me to script for you/join your team, hit me up!
+I also currently work in 4 Roblox Studios ( Wonders of Robloxia, Ban Evasion/M4SSACRE STUDIOS, Echoes of Admins ), and I am pretty good at Roblox scripting, so if you need me to script for you/join your team, hit me up!
 
 ### Gaming
 I enjoy Shooting, Fighting, and Sandbox games.
